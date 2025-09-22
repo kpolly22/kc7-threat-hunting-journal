@@ -7,7 +7,7 @@ A targeted phishing campaign compromised two editorial interns, resulting in una
 Closed
 
 ## Owner / Analyst
-krista.polly@microsoft.com
+kpolly22@gmail.com
 
 ---
 
