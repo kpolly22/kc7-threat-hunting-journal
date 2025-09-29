@@ -1,4 +1,4 @@
-# Executive Summary — Valdoria Times Incident (January 2024)
+# Executive Summary — Valdorian Times Incident (January 2024)
 
 On January 22, 2024, *The Valdorian Times* inadvertently published a defamatory article about a mayoral candidate due to a targeted cyberattack that compromised editorial workflows.
 
