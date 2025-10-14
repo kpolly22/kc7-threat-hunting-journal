@@ -3,7 +3,7 @@
 ## Overview
 # 🛡️ KC7 Threat Hunting Journal
 
-Welcome to the KC7 Threat Hunting Journal — a modular, case-based repository designed to document, analyze, and share threat investigations with clarity, repeatability, and tactical insight.
+Welcome to my KC7 Threat Hunting Journal — a modular, case-based repository designed to document, analyze, and share threat investigations with clarity, repeatability, and tactical insight.
 
 This repo blends technical rigor with storytelling, enabling security teams and incident responders to trace adversary behavior across the kill chain while building reusable artifacts for onboarding, detection engineering, and strategic reporting.
 
